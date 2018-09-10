@@ -1,0 +1,16 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=61245:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\easto\IdeaProjects\HelloWorld\out\production\HelloWorld Main
+l(a
+
+le
+af
+fa
+
+ll
+
+s)
+one
+l
+
+iness
+
+Process finished with exit code 0
